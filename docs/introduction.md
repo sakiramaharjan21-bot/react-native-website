@@ -1,6 +1,6 @@
 ---
-id: getting-started
-title: Introduction
+id: waah
+title: werid asas ha
 description: This helpful guide lays out the prerequisites for learning React Native, using these docs, and setting up your environment.
 ---
 
